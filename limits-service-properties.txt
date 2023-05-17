@@ -1,2 +1,2 @@
-limits.minimum = 40
-limits.maximum = 60
+limits-service-properties.minimum = 40
+limits-service-properties.maximum = 60
