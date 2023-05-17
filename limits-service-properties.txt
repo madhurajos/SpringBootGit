@@ -1,2 +1,2 @@
-limits.minimum = 15
-limits.maximum = 25
+limits.minimum = 40
+limits.maximum = 60
